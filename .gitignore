@@ -1,0 +1,32 @@
+# Unity 자동 생성 폴더·파일
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/.vs/
+.vsconfig
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.unitypackage
+
+# 외부 에셋 (README의 "포함하지 않은 외부 에셋" 참고)
+/Assets/Assets/
+/Assets/Assets.meta
+/Assets/Fonts/Fonts/PixelFJVerdana12pt.ttf
+/Assets/Fonts/Fonts/PixelFJVerdana12pt.ttf.meta
+
+# 서버 실행 시 생기는 파일과 비밀 정보
+/Server/user_code.py
+__pycache__/
+.env
