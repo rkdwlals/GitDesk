@@ -71,5 +71,3 @@ python Server/server.py   # http://127.0.0.1:5000
 - PixelFJVerdana12pt 폰트
 
 ---
-
-이 저장소의 README·.gitignore 정리와 서버 코드의 API 키 제거는 Claude(AI)의 도움을 받았습니다. 게임 코드는 팀이 작성한 그대로입니다.
